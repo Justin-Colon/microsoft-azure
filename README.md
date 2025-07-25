@@ -120,5 +120,12 @@ Now lets connect to our PC using the username and password we created on microso
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/c748d48e0673a73b3ca1cb72094128b5c1713265/Virtual%20Machine%20Tutorial/vm11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now lets connect to our PC using the username and password we created on microsoft azure. 
+</p>
+<br />
 
 
