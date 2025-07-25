@@ -73,10 +73,10 @@ Now that we have created our resource group, let's create our vm that will be st
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/4a0d9aa58f22c4771b1455e066e66ae8b3ab9a98/Virtual%20Machine%20Tutorial/vm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/0d174a1831e11e311b7c104288acea175c5469cd/Virtual%20Machine%20Tutorial/vm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have created our resource group, let's create our vm that will be stored inside of our resource group.
+Back to configuring the basics for our vm installation. There are a lot of settings we can change depending on what we want but in this case I have selected windows 10, created a name for my vm, selected the appropriate region and made sure I was using the correct port which is RDP (3389).Azure will auto-select a disk type (Standard SSD or HDD).Networking options will also default (you can customize later).
 </p>
 <br />
 
