@@ -96,4 +96,12 @@ Now that we have created our windows 10 vm, lets try logining into it using the 
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/acf99e8ed2f1ae78e164f270067d12d1c95ea960/Virtual%20Machine%20Tutorial/vm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that we have created our windows 10 vm, lets try logining into it using the public IP address which is highlighted. 
+</p>
+<br />
+
 
