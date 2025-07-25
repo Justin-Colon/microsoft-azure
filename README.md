@@ -65,10 +65,10 @@ Configuring the basics then selecting review + create once complete.
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/849594f033d2cb6873d16afe66a5447c689a9676/Virtual%20Machine%20Tutorial/vm%204.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/4a0d9aa58f22c4771b1455e066e66ae8b3ab9a98/Virtual%20Machine%20Tutorial/vm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring the basics then selecting review + create once complete.
+Now that we have created our resource group, let's create our vm that will be stored inside of our resource group.
 </p>
 <br />
 
