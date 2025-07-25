@@ -129,10 +129,10 @@ After you have enetered the required login info, you should be greeted by a welc
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/9edb0a5a59398ebc7619c979047382693c92f2b6/Virtual%20Machine%20Tutorial/vm13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/6b6a162ce45feeb063bfc8f9f5ea38212208a1fb/Virtual%20Machine%20Tutorial/vm14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After you have enetered the required login info, you should be greeted by a welcome screen like so. 
+Thank you for taking the time to read my Virtual Machine Prerequisites and Installation project. 
 </p>
 <br />
 
