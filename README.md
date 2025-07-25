@@ -113,10 +113,10 @@ On this screen after we have selected "add pc" we will paste or type the public 
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/d3f8c2ce48e236b8d4204985f4f165d1a40661fb/Virtual%20Machine%20Tutorial/vm10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/c748d48e0673a73b3ca1cb72094128b5c1713265/Virtual%20Machine%20Tutorial/vm11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On this screen after we have selected "add pc" we will paste or type the public IP address of our windows 10 vm and give it friendly name.
+Now lets connect to our PC using the username and password we created on microsoft azure. 
 </p>
 <br />
 
