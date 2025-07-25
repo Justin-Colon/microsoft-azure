@@ -112,5 +112,13 @@ On this screen after we have selected "add pc" we will paste or type the public 
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/d3f8c2ce48e236b8d4204985f4f165d1a40661fb/Virtual%20Machine%20Tutorial/vm10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On this screen after we have selected "add pc" we will paste or type the public IP address of our windows 10 vm and give it friendly name.
+</p>
+<br />
+
 
 
