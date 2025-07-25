@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of a Virtual Machine.<
 <img src="https://github.com/Justin-Colon/microsoft-azure/blob/025cf374a8347de9f804e48843783efd72fa6cf6/Virtual%20Machine%20Tutorial/VM%201%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The home page of microsoft azure is where the magic happens. This is where you can create anything based off your needs like storagnge accounts, resource groups, vm's, etc. 
+The home page of microsoft azure is where the magic happens. This is where you can create anything based off your needs like storage accounts, resource groups, vm's, etc. 
 </p>
 <br />
 
@@ -52,9 +52,14 @@ In the search bar at the top, type "Resource Groups" and click it.
 <img src="https://github.com/Justin-Colon/microsoft-azure/blob/0753a8d8c22e5c46187a1833b127f44ea58a2c8a/Virtual%20Machine%20Tutorial/vm%203%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click “+ Create” 
+Click “+ Create” and the reason why we are creating a resource group is just to have a folder for our project which in this case is out VM.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/849594f033d2cb6873d16afe66a5447c689a9676/Virtual%20Machine%20Tutorial/vm%204.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring the basics then selecting review + create once complete.
+</p>
+<br />
