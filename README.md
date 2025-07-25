@@ -81,10 +81,18 @@ Back to configuring the basics for our vm installation. There are a lot of setti
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/0d174a1831e11e311b7c104288acea175c5469cd/Virtual%20Machine%20Tutorial/vm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/83cdaee41594f80e6237f8a8a0f6e6121db8a002/Virtual%20Machine%20Tutorial/vm7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-tomize later).
+Just a continuation of configuring the bascis which Involves creating a username and password which will allow you to connect to your vm after it is created. You can also see the port that I mentioned a step before and the appropriate size for your vm. 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/83cdaee41594f80e6237f8a8a0f6e6121db8a002/Virtual%20Machine%20Tutorial/vm7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Just a continuation of configuring the bascis which Involves creating a username and password which will allow you to connect to your vm after it is created. You can also see the port that I mentioned a step before and the appropriate size for your vm. 
 </p>
 <br />
 
