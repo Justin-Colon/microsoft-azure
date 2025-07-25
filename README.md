@@ -121,10 +121,10 @@ Now lets connect to our PC using the username and password we created on microso
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/c748d48e0673a73b3ca1cb72094128b5c1713265/Virtual%20Machine%20Tutorial/vm11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/9edb0a5a59398ebc7619c979047382693c92f2b6/Virtual%20Machine%20Tutorial/vm13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now lets connect to our PC using the username and password we created on microsoft azure. 
+After you have enetered the required login info, you should be greeted by a welcome screen like so. 
 </p>
 <br />
 
