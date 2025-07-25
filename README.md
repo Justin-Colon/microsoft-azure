@@ -128,4 +128,12 @@ After you have enetered the required login info, you should be greeted by a welc
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/9edb0a5a59398ebc7619c979047382693c92f2b6/Virtual%20Machine%20Tutorial/vm13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After you have enetered the required login info, you should be greeted by a welcome screen like so. 
+</p>
+<br />
+
 
