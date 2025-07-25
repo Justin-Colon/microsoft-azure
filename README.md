@@ -80,4 +80,12 @@ Back to configuring the basics for our vm installation. There are a lot of setti
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/0d174a1831e11e311b7c104288acea175c5469cd/Virtual%20Machine%20Tutorial/vm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+tomize later).
+</p>
+<br />
+
 
