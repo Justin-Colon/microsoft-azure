@@ -89,10 +89,10 @@ Just a continuation of configuring the bascis which Involves creating a username
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/83cdaee41594f80e6237f8a8a0f6e6121db8a002/Virtual%20Machine%20Tutorial/vm7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/acf99e8ed2f1ae78e164f270067d12d1c95ea960/Virtual%20Machine%20Tutorial/vm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Just a continuation of configuring the bascis which Involves creating a username and password which will allow you to connect to your vm after it is created. You can also see the port that I mentioned a step before and the appropriate size for your vm. 
+Now that we have created our windows 10 vm, lets try logining into it using the public IP address which is highlighted. 
 </p>
 <br />
 
