@@ -97,10 +97,10 @@ Now that we have created our windows 10 vm, lets try logining into it using the 
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/acf99e8ed2f1ae78e164f270067d12d1c95ea960/Virtual%20Machine%20Tutorial/vm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/microsoft-azure/blob/2f6598ed9b4e4f5bed4dda277ca8fb052a34c7c8/Virtual%20Machine%20Tutorial/vm9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have created our windows 10 vm, lets try logining into it using the public IP address which is highlighted. 
+Now lets connect to you vm using Remote Desktop which is a technology that lets you control a computer from another location, as if you were sitting right in front of it. Once in RDP, select the "+" icon and hit add pc. 
 </p>
 <br />
 
